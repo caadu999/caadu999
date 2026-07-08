@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Eduardo Souza
 
 **`Desenvolvedor Front-End`**
 
