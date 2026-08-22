@@ -120,5 +120,4 @@ Me chamo Eduardo, tenho 24 anos e sou natural do Rio de Janeiro.
 
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caadu999&repo=gamescope.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
