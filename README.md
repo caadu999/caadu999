@@ -38,6 +38,9 @@ Desenvolvedor Front-End com foco na criação de aplicações web modernas, resp
 
 ---
 
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=caadu999&layout=compact&hide_border=true" width="40%" /> </p>
+
+
 <p align="center">
   <i>Obrigado pela visita!</i>
 </p>
