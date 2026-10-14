@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Desenvolvedor Front-End com foco na criação de aplicações web modernas, responsivas e de alta performance. Trabalho com JavaScript, TypeScript, React, Next.js, Tailwind CSS e consumo de APIs REST, desenvolvendo interfaces escaláveis, acessíveis e seguindo boas práticas de desenvolvimento.
+Desenvolvedor Full-Stack.
 
 ### Tecnologias
 
