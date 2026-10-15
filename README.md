@@ -2,7 +2,19 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Desenvolvedor Full-Stack.
+```python
+eduardo = {
+    "stack": [
+        "Python / FastAPI",
+        "JavaScript / TypeScript",
+        "React / Next.js",
+        "SQL / PostgreSQL"
+    ],
+    "formacao": "Análise e Desenvolvimento de Sistemas — UNINTER",
+    "desenvolvendo": "Aplicações web com React, Next.js e APIs REST com Python",
+    "buscando": "Estágio ou oportunidade Júnior em Desenvolvimento Full Stack"
+}
+```
 
 ### Tecnologias
 
